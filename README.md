@@ -2,10 +2,8 @@
 
 This project analyzes global and regional temperature changes from 1961 to 2019 using Python. It highlights global trends, regional differences, and provides visualizations for insights.
 
-## Files
-- **ClimateChangeAnalysis.ipynb**: Jupyter Notebook with analysis and visualizations.
-- **Temperature_change_Data.csv**: Dataset used for analysis.
-- **pyLibs4DSAndNobelLaureatesDataset.html**: HTML version of the Jupyter Notebook.
+## File
+- **index.html**: HTML version of the Jupyter Notebook.
 
 ## Key Insights
 - Global temperatures have steadily risen since 1961, with a sharp increase after 2000.
